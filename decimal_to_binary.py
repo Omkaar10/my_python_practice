@@ -14,3 +14,7 @@ def add_binary(a,b):
 
     return bin[::-1]
 
+
+#Another optimized way of doing it
+def binary_con(a,b):
+    return format(a+b,'b')
