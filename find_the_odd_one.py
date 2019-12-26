@@ -1,3 +1,7 @@
+"""This is a practice code."""
+
+__author__      = "Omkar Naidu"
+
 def iq_test(numbers):
     odd_count=0
     even_count=0
